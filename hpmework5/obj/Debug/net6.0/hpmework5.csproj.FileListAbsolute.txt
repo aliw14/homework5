@@ -1,0 +1,15 @@
+/Users/ali/Projects/hpmework5/hpmework5/bin/Debug/net6.0/hpmework5
+/Users/ali/Projects/hpmework5/hpmework5/bin/Debug/net6.0/hpmework5.deps.json
+/Users/ali/Projects/hpmework5/hpmework5/bin/Debug/net6.0/hpmework5.runtimeconfig.json
+/Users/ali/Projects/hpmework5/hpmework5/bin/Debug/net6.0/hpmework5.dll
+/Users/ali/Projects/hpmework5/hpmework5/bin/Debug/net6.0/hpmework5.pdb
+/Users/ali/Projects/hpmework5/hpmework5/obj/Debug/net6.0/hpmework5.csproj.AssemblyReference.cache
+/Users/ali/Projects/hpmework5/hpmework5/obj/Debug/net6.0/hpmework5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Projects/hpmework5/hpmework5/obj/Debug/net6.0/hpmework5.AssemblyInfoInputs.cache
+/Users/ali/Projects/hpmework5/hpmework5/obj/Debug/net6.0/hpmework5.AssemblyInfo.cs
+/Users/ali/Projects/hpmework5/hpmework5/obj/Debug/net6.0/hpmework5.csproj.CoreCompileInputs.cache
+/Users/ali/Projects/hpmework5/hpmework5/obj/Debug/net6.0/hpmework5.dll
+/Users/ali/Projects/hpmework5/hpmework5/obj/Debug/net6.0/refint/hpmework5.dll
+/Users/ali/Projects/hpmework5/hpmework5/obj/Debug/net6.0/hpmework5.pdb
+/Users/ali/Projects/hpmework5/hpmework5/obj/Debug/net6.0/hpmework5.genruntimeconfig.cache
+/Users/ali/Projects/hpmework5/hpmework5/obj/Debug/net6.0/ref/hpmework5.dll
